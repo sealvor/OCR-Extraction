@@ -3,3 +3,4 @@ Applying Google Visual API to detect text from football videos and extract key i
 
 This is my first modification on local repo.
 I made the 2nd modification on the web page.
+I made the 3rd modificaiton on local repo.
